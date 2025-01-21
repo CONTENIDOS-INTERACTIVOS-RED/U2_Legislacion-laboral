@@ -1,2 +1,1 @@
-module.exports =
-  'unidad 1. Derechos relacionados con la actividad laboral y contratación'
+module.exports = 'Unidad 2. Contratación estatal'

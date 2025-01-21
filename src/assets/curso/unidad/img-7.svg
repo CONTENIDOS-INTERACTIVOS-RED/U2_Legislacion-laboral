@@ -8,8 +8,8 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Group_1157496" data-name="Group 1157496" transform="translate(-217 -2626)">
-    <g id="Group_1099689" data-name="Group 1099689" transform="translate(30 773)">
+  <g id="Group_1157528" data-name="Group 1157528" transform="translate(-217 -2304)">
+    <g id="Group_1099689" data-name="Group 1099689" transform="translate(30 451)">
       <g transform="matrix(1, 0, 0, 1, 187, 1853)" filter="url(#Ellipse_11495)">
         <g id="Ellipse_11495-2" data-name="Ellipse 11495" transform="translate(9 6)" fill="#e3dac6" stroke="#bcac89" stroke-width="2">
           <circle cx="43" cy="43" r="43" stroke="none"/>
