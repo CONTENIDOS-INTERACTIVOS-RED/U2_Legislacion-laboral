@@ -113,7 +113,7 @@
     #t_1_3.titulo-segundo(data-aos="flip-up")
       div.d-flex
         span.me-3 1.3
-        h2 1.3	El acto jurídico en el marco de la contratación estatal
+        h2 El acto jurídico en el marco de la contratación estatal
 
     p.mb-4 El acto jurídico en el marco de la contratación estatal representa un compromiso formal entre el Estado y los particulares para satisfacer necesidades colectivas mediante la adquisición de bienes, servicios y obras públicas.
 
@@ -122,7 +122,7 @@
         .col-12.col-xl-8.d-flex.pe-4.pe-xl-5.align-items-center.flex-column(data-aos="fade-right")
           h2.mb-4.pb-2.me-auto El acto jurídico en la contratación estatal
           p.mb-5 En el PDF El acto jurídico en la contratación estatal, se analiza cómo estos actos reflejan la voluntad del Estado en pro del interés general, detallando los principios de legalidad, transparencia y control que rigen los procesos de contratación pública. Asimismo, se abordan los mecanismos de supervisión que garantizan la correcta administración de los recursos públicos, previniendo irregularidades y promoviendo el desarrollo social.
-          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/.pdf')" target="_blank")
+          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/Anexos_El acto jurídico en la contratación estatal.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
             p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> El acto jurídico en la contratación estatal
         .d-none.d-xl-block.col-xl-4.mx-auto.mt-4.mt-xl-0(data-aos="fade-left")
@@ -142,7 +142,7 @@
         .col-12.col-xl-8.d-flex.ps-4.ps-xl-5.align-items-center.flex-column(data-aos="fade-left")
           h2.mb-4.pb-2.me-auto Ineficacia de los actos jurídicos 
           p.mb-5 En el PDF Ineficacia de los actos jurídicos, se analizan los distintos tipos de ineficacia, como la nulidad absoluta, la nulidad relativa y la ineficacia automática, y sus implicaciones en los contratos celebrados por entidades públicas. Además, se profundiza en cómo esta figura protege el interés general y previene el uso indebido de los recursos públicos.
-          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/.pdf')" target="_blank")
+          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/Anexos_Ineficacia de los actos jurídicos.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
             p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Ineficacia de los actos jurídicos
 

@@ -65,7 +65,7 @@
                   .custom-image-card.d-flex.flex-column.p-4.py-md-5.h-100
                     img.mx-auto.mb-4(src='@/assets/curso/unidad/img-29.svg', style='width: 80px')
                     p.text-bold.mb-4.text-center Interdicción judicial
-                    p.px-1.text-small.mb-0.d-flex.text-center Cuando una persona ha sido declarada incapaz mediante sentencia judicial
+                    p.px-1.text-small.mb-0.d-flex.text-center Cuando una persona ha sido declarada incapaz mediante sentencia judicial.
               .row.mb-4.justify-content-center.h-100
                 .col-12(data-aos='zoom-in')
                   .custom-image-card.d-flex.flex-column.p-4.py-md-5.h-100
@@ -217,9 +217,9 @@
           .my-auto
             p.pe-xl-3.mb-0 El cumplimiento de estas disposiciones es de carácter obligatorio, y su desconocimiento puede derivar en la nulidad del contrato, así como en sanciones disciplinarias y responsabilidad fiscal o penal para las partes involucradas.
 
-    #t_1_3.titulo-segundo(data-aos="flip-up")
+    #t_3_3.titulo-segundo(data-aos="flip-up")
       div.d-flex
-        span.me-3 1.3
+        span.me-3 3.3
         h2 Objetivo de las inhabilidades e incompatibilidades
 
     p.mb-4 Las inhabilidades e incompatibilidades en la contratación estatal, cumplen un objetivo fundamental: asegurar que los procesos se desarrollen de manera transparente, legal y ética, protegiendo siempre el interés general y los recursos públicos. A continuación, se explican de manera pedagógica y detallada los objetivos principales que persiguen:

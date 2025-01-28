@@ -39,7 +39,6 @@
 
     p.mb-4 Estas preguntas serán fundamentales para abordar y comprender la contratación pública como una herramienta que impulsa el desarrollo económico y social del país.<br>Al final de esta unidad, el estudiante no solo tendrá claridad sobre el marco normativo y los principios de la contratación estatal, sino que también contará con herramientas para analizar, identificar y resolver problemas relacionados con estos procesos. Además, podrá valorar la contratación estatal como un mecanismo indispensable para fortalecer la transparencia, la eficiencia y el cumplimiento de los fines del Estado.
 
-    p.mb-4 Al final de esta unidad, el estudiante no solo tendrá claridad sobre el marco normativo y los principios de la contratación estatal, sino que también contará con herramientas para analizar, identificar y resolver problemas relacionados con estos procesos. Además, podrá valorar la contratación estatal como un mecanismo indispensable para fortalecer la transparencia, la eficiencia y el cumplimiento de los fines del Estado.
     .bg-rojo-claro.p-4(data-aos="fade-up")
       span ¡Prepárese para adentrarse en el fascinante mundo de la contratación estatal! Esta unidad es una oportunidad para entender cómo funcionan las relaciones entre el Estado y los particulares, conectando la teoría con el ejercicio práctico y preparándose para enfrentar los retos profesionales del sector público y privado.
 
